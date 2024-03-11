@@ -1,10 +1,3 @@
-/*********
-  Author: Kavinda Deshan
-  Date: 2024/03/01
-  Version: 1.0
-  Complete project details: https://github.com/tkdeshan/Smart_Home.git
-*********/
-
 #include <Arduino.h>
 #include <WiFi.h>
 #include <ESP32Servo.h>
