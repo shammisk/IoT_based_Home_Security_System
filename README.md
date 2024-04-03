@@ -24,6 +24,10 @@ This project implements an IoT-based security system for smart homes, allowing u
 - Arduino IDE
 - C++
 
+## Watch On
+[Visit the work process](https://youtu.be/flMnCmxFvoE)
+
+
 > Block Diagram
 
 
