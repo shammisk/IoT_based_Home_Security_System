@@ -34,3 +34,10 @@ This project implements an IoT-based security system for smart homes, allowing u
 ![block diagram finish drawio](https://github.com/shammisk/IoT_based_Home_Security_System/assets/99946678/5037af39-e5e5-4e01-b72c-73d85f2522ec)
 
 
+> Circit Diagram
+
+
+![0](https://github.com/shammisk/IoT_based_Home_Security_System/assets/99946678/2fbc6add-f634-4f40-a235-d9eca9f3e6e8)
+
+
+
