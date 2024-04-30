@@ -25,9 +25,9 @@ This project implements an IoT-based security system for smart homes, allowing u
 - C++
 
 ## Watch On
-[Visit the work process](https://youtu.be/flMnCmxFvoE)
-[IOT based Home Security System Project Explanation (English)](https://youtu.be/NKal_KJE3e4)
-[IOT based Home Security System Project Explanation (Sinhala)](https://youtu.be/jmEIoR2qrOM)
+>> [Visit the work process](https://youtu.be/flMnCmxFvoE)
+>>[IOT based Home Security System Project Explanation (English)](https://youtu.be/NKal_KJE3e4)
+>>[IOT based Home Security System Project Explanation (Sinhala)](https://youtu.be/jmEIoR2qrOM)
 
 
 > Block Diagram
