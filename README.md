@@ -27,6 +27,8 @@ This project implements an IoT-based security system for smart homes, allowing u
 ## Watch On
 >> [Visit the work process](https://youtu.be/flMnCmxFvoE)
 
+>> [Watch On] (https://youtu.be/KuYNLo_wBa8?si=y3zdziHTF2df6y9X)
+
 >>[IOT based Home Security System Project Explanation (English)](https://youtu.be/NKal_KJE3e4)
 
 >>[IOT based Home Security System Project Explanation (Sinhala)](https://youtu.be/jmEIoR2qrOM)
